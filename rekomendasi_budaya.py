@@ -38,7 +38,7 @@ def rekomendasi_populer(file_path, top_n=50, kota_pilihan=None):
 
     return rekomendasi
 
-@app.route('/rekomendasi', methods=['GET'])
+@app.route('/budaya', methods=['GET'])
 def get_rekomendasi_wisata():
     file_path = "budaya_jawa.csv"
     kota_pilihan = None
