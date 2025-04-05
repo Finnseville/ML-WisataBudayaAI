@@ -40,7 +40,7 @@ def rekomendasi_populer(file_path, top_n=50, kota_pilihan=None):
 
 @app.route('/rekomendasi', methods=['GET'])
 def get_rekomendasi_wisata():
-    file_path = "bandung.csv"
+    file_path = "budaya_jawa.csv"
     kota_pilihan = None
     rekomendasi = rekomendasi_populer(file_path, top_n=500, kota_pilihan=kota_pilihan)
     return jsonify(rekomendasi.to_dict(orient='records'))
