@@ -21,7 +21,7 @@ df = df.sort_values("Rating", ascending=False)
 df = df.drop_duplicates(subset=["Budaya", "Kota"], keep="first")
 df.drop_duplicates(inplace=True)
 
-def rekomendasi_populer(df, top_n=50, kota_pilihan=None)
+def rekomendasi_populer(df, top_n=50, kota_pilihan=None):
     # Hitung skor popularitas
     bobot_rating = 0.7
     df["skor_popularitas"] = df["Rating"] * bobot_rating
