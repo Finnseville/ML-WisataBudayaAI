@@ -12,11 +12,16 @@ from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
+ df = pd.read_csv("budaya_jawa.csv")
+df["Budaya"] = df["Budaya"].str.strip().str.lower()
+df["Kota"] = df["Kota"].str.strip().str.lower()
 
-def rekomendasi_populer(file_path, top_n=50, kota_pilihan=None):
-    df = pd.read_csv("budaya_jawa.csv")
-    df.drop_duplicates(inplace=True)
+# Ambil yang rating-nya paling tinggi dari duplikat nama tempat dan kota
+df = df.sort_values("Rating", ascending=False)
+df = df.drop_duplicates(subset=["Budaya", "Kota"], keep="first")
+ df.drop_duplicates(inplace=True)
 
+def rekomendasi_populer(df, top_n=50, kota_pilihan=None)
     # Hitung skor popularitas
     bobot_rating = 0.7
     df["skor_popularitas"] = df["Rating"] * bobot_rating
@@ -42,7 +47,7 @@ def rekomendasi_populer(file_path, top_n=50, kota_pilihan=None):
 def get_rekomendasi_wisata():
     file_path = "budaya_jawa.csv"
     kota_pilihan = None
-    rekomendasi = rekomendasi_populer(file_path, top_n=500, kota_pilihan=kota_pilihan)
+    rekomendasi = rekomendasi_populer(df, top_n=500, kota_pilihan=kota_pilihan)
     return jsonify(rekomendasi.to_dict(orient='records'))
 
 
