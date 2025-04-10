@@ -12,7 +12,7 @@ from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
-df = pd.read_csv("budaya_jawa.csv")
+df = pd.read_csv("budaya_jawa_r.csv")
 df["Budaya"] = df["Budaya"].str.strip().str.lower()
 df["Kota"] = df["Kota"].str.strip().str.lower()
 
@@ -42,7 +42,7 @@ def rekomendasi_populer(df, top_n=50, kota_pilihan=None):
     rekomendasi = top_wisata[["Budaya", "Kota", "Jenis", "Rating", "Deskripsi"]]
 
     return rekomendasi
-
+    
 @app.route('/budaya', methods=['GET'])
 def get_rekomendasi_wisata():
     file_path = "budaya_jawa.csv"
