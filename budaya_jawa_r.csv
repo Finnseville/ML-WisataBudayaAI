@@ -1,0 +1,1001 @@
+Budaya,Jenis,Deskripsi,Kota,Provinsi,Rating
+Angklung,Musik,Alat musik bambu khas Sunda yang digetarkan.,Bandung,Jawa Barat,4.5
+Wayang Golek,Kesenian,Wayang boneka kayu khas Sunda.,Bandung,Jawa Barat,4
+Jaipongan,Tari,Tari energik dengan irama kendang dan gerakan dinamis.,Karawang,Jawa Barat,3.9
+Tari Topeng Cirebon,Tari,Tarian topeng dengan karakter khas daerah Cirebon.,Cirebon,Jawa Barat,4.5
+Seren Taun,Tradisi,Upacara syukur panen masyarakat Sunda.,Kuningan,Jawa Barat,4.6
+Sisingaan,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan.,Subang,Jawa Barat,4.4
+Comro,Kuliner,Gorengan berbahan singkong isi oncom.,Bandung,Jawa Barat,4.8
+Batik Ciamis,Kerajinan,Batik khas Ciamis dengan motif flora fauna.,Ciamis,Jawa Barat,3.6
+Tari Gambyong,Tari,Tari klasik Jawa dengan gerakan lembut.,Surakarta,Jawa Tengah,4.9
+Batik Solo,Kerajinan,Batik dengan motif keraton yang klasik.,Solo,Jawa Tengah,4.2
+Tari Lengger,Tari,Tari Banyumasan dengan iringan gamelan.,Banyumas,Jawa Tengah,4.6
+Ebeg,Kesenian,Kuda lumping khas Banyumas.,Banyumas,Jawa Tengah,3.9
+Wayang Kulit,Kesenian,Pertunjukan bayangan dari boneka kulit.,Surakarta,Jawa Tengah,3.8
+Gunungan,Tradisi,Simbol hasil bumi yang diarak saat Grebeg.,Yogyakarta,DI Yogyakarta,4.1
+Lumpia Semarang,Kuliner,Lumpia isi rebung khas Semarang.,Semarang,Jawa Tengah,4.9
+Grebeg Sudiro,Tradisi,Perayaan Imlek dan Jawa bersatu.,Solo,Jawa Tengah,3.9
+Reog Ponorogo,Kesenian,Pertunjukan dengan topeng barong besar.,Ponorogo,Jawa Timur,4.2
+Tari Remo,Tari,Tari penyambutan tamu kehormatan.,Jombang,Jawa Timur,4
+Ludruk,Kesenian,Teater tradisional berbahasa Jawa Timuran.,Surabaya,Jawa Timur,4.9
+Karapan Sapi,Tradisi,Balap sapi khas Madura.,Sumenep,Jawa Timur,4.3
+Tari Jaranan Buto,Tari,Tarian dengan topeng raksasa khas Banyuwangi.,Banyuwangi,Jawa Timur,4
+Sate Madura,Kuliner,Sate ayam/kambing dengan bumbu kacang.,Pamekasan,Jawa Timur,3.7
+Rujak Cingur,Kuliner,Salad tradisional dengan irisan cingur.,Surabaya,Jawa Timur,4.1
+Batik Madura,Kerajinan,Batik berwarna cerah dengan motif khas.,Bangkalan,Jawa Timur,3.7
+Debus,Tradisi,Pertunjukan kekebalan tubuh ekstrem.,Serang,Banten,4.9
+Rampak Bedug,Musik,Pertunjukan sinkronisasi bedug besar.,Pandeglang,Banten,4.6
+Tari Cokek,Tari,Tari pergaulan khas etnis Tionghoa-Banten.,Tangerang,Banten,3.9
+Uli Sera,Kuliner,Makanan khas Baduy dari ketan dan kelapa.,Lebak,Banten,3.7
+Kue Jojorong,Kuliner,Kue basah manis dari tepung beras dan gula merah.,Pandeglang,Banten,4.9
+Tari Bedhaya,Tari,Tari sakral keraton dengan gerakan lambat.,Yogyakarta,DI Yogyakarta,3.6
+Wayang Orang,Kesenian,Pertunjukan wayang yang diperankan oleh manusia.,Yogyakarta,DI Yogyakarta,4.9
+Batik Jogja,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton.,Yogyakarta,DI Yogyakarta,4.5
+Gudeg,Kuliner,Makanan manis dari nangka muda.,Yogyakarta,DI Yogyakarta,4.6
+Geplak,Kuliner,Permen kelapa warna-warni khas Jogja.,Bantul,DI Yogyakarta,4
+Tari Kecak,Tari,Tari dengan suara vokal 'cak' tanpa alat musik.,Gianyar,Bali,4.8
+Tari Barong,Tari,Tari pertarungan kebaikan dan kejahatan.,Gianyar,Bali,4.3
+Ogoh-ogoh,Tradisi,Patung raksasa diarak menjelang Nyepi.,Denpasar,Bali,3.8
+Subak,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual.,Tabanan,Bali,4.1
+Canang Sari,Tradisi,Persembahan harian masyarakat Hindu Bali.,Ubud,Bali,4.8
+Tari Legong,Tari,Tari klasik dengan gerakan halus dan rumit.,Ubud,Bali,3.8
+Bebek Betutu,Kuliner,Bebek berbumbu khas yang dimasak lama.,Gianyar,Bali,4.8
+Loloh Cemcem,Kuliner,Minuman herbal dari daun cemcem.,Karangasem,Bali,4.5
+Angklung III,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-43.,Bandung,Jawa Barat,4.5
+Wayang Golek Baru,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-44.,Bandung,Jawa Barat,4.9
+Jaipongan Asli,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-45.,Karawang,Jawa Barat,3.7
+Tari Topeng Cirebon Klasik,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-46.,Cirebon,Jawa Barat,4.9
+Seren Taun Modern,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-47.,Kuningan,Jawa Barat,3.9
+Sisingaan Tradisi,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-48.,Subang,Jawa Barat,4.3
+Comro Versi A,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-49.,Bandung,Jawa Barat,3.8
+Batik Ciamis Versi B,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-50.,Ciamis,Jawa Barat,4.2
+Tari Gambyong I,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-51.,Surakarta,Jawa Tengah,4.4
+Batik Solo II,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-52.,Solo,Jawa Tengah,5
+Tari Lengger III,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-53.,Banyumas,Jawa Tengah,4
+Ebeg Baru,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-54.,Banyumas,Jawa Tengah,4.8
+Wayang Kulit Asli,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-55.,Surakarta,Jawa Tengah,5
+Gunungan Klasik,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-56.,Yogyakarta,DI Yogyakarta,4.4
+Lumpia Semarang Modern,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-57.,Semarang,Jawa Tengah,3.6
+Grebeg Sudiro Tradisi,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-58.,Solo,Jawa Tengah,4.2
+Reog Ponorogo Versi A,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-59.,Ponorogo,Jawa Timur,4.6
+Tari Remo Versi B,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-60.,Jombang,Jawa Timur,5
+Ludruk I,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-61.,Surabaya,Jawa Timur,4.2
+Karapan Sapi II,Tradisi,Balap sapi khas Madura. Varian budaya ke-62.,Sumenep,Jawa Timur,4.2
+Tari Jaranan Buto III,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-63.,Banyuwangi,Jawa Timur,3.7
+Sate Madura Baru,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-64.,Pamekasan,Jawa Timur,4.1
+Rujak Cingur Asli,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-65.,Surabaya,Jawa Timur,4.6
+Batik Madura Klasik,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-66.,Bangkalan,Jawa Timur,4
+Debus Modern,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-67.,Serang,Banten,3.9
+Rampak Bedug Tradisi,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-68.,Pandeglang,Banten,3.6
+Tari Cokek Versi A,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-69.,Tangerang,Banten,4.5
+Uli Sera Versi B,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-70.,Lebak,Banten,4.7
+Kue Jojorong I,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-71.,Pandeglang,Banten,4.8
+Tari Bedhaya II,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-72.,Yogyakarta,DI Yogyakarta,3.9
+Wayang Orang III,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-73.,Yogyakarta,DI Yogyakarta,3.6
+Batik Jogja Baru,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-74.,Yogyakarta,DI Yogyakarta,4
+Gudeg Asli,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-75.,Yogyakarta,DI Yogyakarta,4.4
+Geplak Klasik,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-76.,Bantul,DI Yogyakarta,4.2
+Tari Kecak Modern,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-77.,Gianyar,Bali,4
+Tari Barong Tradisi,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-78.,Gianyar,Bali,4.9
+Ogoh-ogoh Versi A,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-79.,Denpasar,Bali,4.4
+Subak Versi B,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-80.,Tabanan,Bali,3.9
+Canang Sari I,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-81.,Ubud,Bali,3.6
+Tari Legong II,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-82.,Ubud,Bali,4.7
+Bebek Betutu III,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-83.,Gianyar,Bali,4.7
+Loloh Cemcem Baru,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-84.,Karangasem,Bali,4.8
+Angklung Asli,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-85.,Bandung,Jawa Barat,3.9
+Wayang Golek Klasik,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-86.,Bandung,Jawa Barat,3.5
+Jaipongan Modern,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-87.,Karawang,Jawa Barat,4.2
+Tari Topeng Cirebon Tradisi,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-88.,Cirebon,Jawa Barat,4
+Seren Taun Versi A,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-89.,Kuningan,Jawa Barat,4
+Sisingaan Versi B,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-90.,Subang,Jawa Barat,5
+Comro I,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-91.,Bandung,Jawa Barat,3.7
+Batik Ciamis II,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-92.,Ciamis,Jawa Barat,4.1
+Tari Gambyong III,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-93.,Surakarta,Jawa Tengah,4
+Batik Solo Baru,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-94.,Solo,Jawa Tengah,4.9
+Tari Lengger Asli,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-95.,Banyumas,Jawa Tengah,3.7
+Ebeg Klasik,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-96.,Banyumas,Jawa Tengah,4.6
+Wayang Kulit Modern,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-97.,Surakarta,Jawa Tengah,3.6
+Gunungan Tradisi,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-98.,Yogyakarta,DI Yogyakarta,3.8
+Lumpia Semarang Versi A,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-99.,Semarang,Jawa Tengah,4.2
+Grebeg Sudiro Versi B,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-100.,Solo,Jawa Tengah,4.9
+Reog Ponorogo I,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-101.,Ponorogo,Jawa Timur,4.9
+Tari Remo II,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-102.,Jombang,Jawa Timur,4.4
+Ludruk III,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-103.,Surabaya,Jawa Timur,3.9
+Karapan Sapi Baru,Tradisi,Balap sapi khas Madura. Varian budaya ke-104.,Sumenep,Jawa Timur,4.1
+Tari Jaranan Buto Asli,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-105.,Banyuwangi,Jawa Timur,4.7
+Sate Madura Klasik,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-106.,Pamekasan,Jawa Timur,4.3
+Rujak Cingur Modern,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-107.,Surabaya,Jawa Timur,4.5
+Batik Madura Tradisi,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-108.,Bangkalan,Jawa Timur,4.3
+Debus Versi A,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-109.,Serang,Banten,5
+Rampak Bedug Versi B,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-110.,Pandeglang,Banten,3.8
+Tari Cokek I,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-111.,Tangerang,Banten,4.6
+Uli Sera II,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-112.,Lebak,Banten,4.6
+Kue Jojorong III,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-113.,Pandeglang,Banten,4.9
+Tari Bedhaya Baru,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-114.,Yogyakarta,DI Yogyakarta,3.8
+Wayang Orang Asli,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-115.,Yogyakarta,DI Yogyakarta,3.6
+Batik Jogja Klasik,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-116.,Yogyakarta,DI Yogyakarta,4.7
+Gudeg Modern,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-117.,Yogyakarta,DI Yogyakarta,4
+Geplak Tradisi,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-118.,Bantul,DI Yogyakarta,4.6
+Tari Kecak Versi A,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-119.,Gianyar,Bali,4.9
+Tari Barong Versi B,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-120.,Gianyar,Bali,3.9
+Ogoh-ogoh I,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-121.,Denpasar,Bali,3.9
+Subak II,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-122.,Tabanan,Bali,4.2
+Canang Sari III,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-123.,Ubud,Bali,3.9
+Tari Legong Baru,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-124.,Ubud,Bali,4.1
+Bebek Betutu Asli,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-125.,Gianyar,Bali,4.2
+Loloh Cemcem Klasik,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-126.,Karangasem,Bali,4.3
+Angklung Modern,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-127.,Bandung,Jawa Barat,3.6
+Wayang Golek Tradisi,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-128.,Bandung,Jawa Barat,5
+Jaipongan Versi A,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-129.,Karawang,Jawa Barat,3.8
+Tari Topeng Cirebon Versi B,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-130.,Cirebon,Jawa Barat,3.6
+Seren Taun I,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-131.,Kuningan,Jawa Barat,4.3
+Sisingaan II,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-132.,Subang,Jawa Barat,3.8
+Comro III,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-133.,Bandung,Jawa Barat,4.5
+Batik Ciamis Baru,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-134.,Ciamis,Jawa Barat,3.9
+Tari Gambyong Asli,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-135.,Surakarta,Jawa Tengah,4.4
+Batik Solo Klasik,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-136.,Solo,Jawa Tengah,4.2
+Tari Lengger Modern,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-137.,Banyumas,Jawa Tengah,3.6
+Ebeg Tradisi,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-138.,Banyumas,Jawa Tengah,4.7
+Wayang Kulit Versi A,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-139.,Surakarta,Jawa Tengah,4.6
+Gunungan Versi B,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-140.,Yogyakarta,DI Yogyakarta,3.9
+Lumpia Semarang I,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-141.,Semarang,Jawa Tengah,4.9
+Grebeg Sudiro II,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-142.,Solo,Jawa Tengah,3.9
+Reog Ponorogo III,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-143.,Ponorogo,Jawa Timur,4.3
+Tari Remo Baru,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-144.,Jombang,Jawa Timur,4.3
+Ludruk Asli,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-145.,Surabaya,Jawa Timur,4
+Karapan Sapi Klasik,Tradisi,Balap sapi khas Madura. Varian budaya ke-146.,Sumenep,Jawa Timur,4.7
+Tari Jaranan Buto Modern,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-147.,Banyuwangi,Jawa Timur,4.9
+Sate Madura Tradisi,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-148.,Pamekasan,Jawa Timur,3.7
+Rujak Cingur Versi A,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-149.,Surabaya,Jawa Timur,4.3
+Batik Madura Versi B,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-150.,Bangkalan,Jawa Timur,3.7
+Debus I,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-151.,Serang,Banten,4
+Rampak Bedug II,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-152.,Pandeglang,Banten,3.6
+Tari Cokek III,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-153.,Tangerang,Banten,4.4
+Uli Sera Baru,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-154.,Lebak,Banten,4.1
+Kue Jojorong Asli,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-155.,Pandeglang,Banten,4.6
+Tari Bedhaya Klasik,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-156.,Yogyakarta,DI Yogyakarta,4.1
+Wayang Orang Modern,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-157.,Yogyakarta,DI Yogyakarta,3.8
+Batik Jogja Tradisi,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-158.,Yogyakarta,DI Yogyakarta,3.6
+Gudeg Versi A,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-159.,Yogyakarta,DI Yogyakarta,4.2
+Geplak Versi B,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-160.,Bantul,DI Yogyakarta,4.9
+Tari Kecak I,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-161.,Gianyar,Bali,4.4
+Tari Barong II,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-162.,Gianyar,Bali,4.6
+Ogoh-ogoh III,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-163.,Denpasar,Bali,4.2
+Subak Baru,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-164.,Tabanan,Bali,4.8
+Canang Sari Asli,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-165.,Ubud,Bali,3.9
+Tari Legong Klasik,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-166.,Ubud,Bali,3.5
+Bebek Betutu Modern,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-167.,Gianyar,Bali,4.5
+Loloh Cemcem Tradisi,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-168.,Karangasem,Bali,3.7
+Angklung Versi A,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-169.,Bandung,Jawa Barat,3.9
+Wayang Golek Versi B,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-170.,Bandung,Jawa Barat,4.8
+Jaipongan I,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-171.,Karawang,Jawa Barat,4.1
+Tari Topeng Cirebon II,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-172.,Cirebon,Jawa Barat,4.9
+Seren Taun III,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-173.,Kuningan,Jawa Barat,4.6
+Sisingaan Baru,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-174.,Subang,Jawa Barat,3.6
+Comro Asli,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-175.,Bandung,Jawa Barat,4.6
+Batik Ciamis Klasik,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-176.,Ciamis,Jawa Barat,4.6
+Tari Gambyong Modern,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-177.,Surakarta,Jawa Tengah,4.4
+Batik Solo Tradisi,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-178.,Solo,Jawa Tengah,4.6
+Tari Lengger Versi A,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-179.,Banyumas,Jawa Tengah,4.2
+Ebeg Versi B,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-180.,Banyumas,Jawa Tengah,3.6
+Wayang Kulit I,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-181.,Surakarta,Jawa Tengah,4.5
+Gunungan II,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-182.,Yogyakarta,DI Yogyakarta,5
+Lumpia Semarang III,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-183.,Semarang,Jawa Tengah,3.6
+Grebeg Sudiro Baru,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-184.,Solo,Jawa Tengah,5
+Reog Ponorogo Asli,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-185.,Ponorogo,Jawa Timur,3.9
+Tari Remo Klasik,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-186.,Jombang,Jawa Timur,5
+Ludruk Modern,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-187.,Surabaya,Jawa Timur,4.5
+Karapan Sapi Tradisi,Tradisi,Balap sapi khas Madura. Varian budaya ke-188.,Sumenep,Jawa Timur,4.9
+Tari Jaranan Buto Versi A,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-189.,Banyuwangi,Jawa Timur,4.6
+Sate Madura Versi B,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-190.,Pamekasan,Jawa Timur,4.6
+Rujak Cingur I,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-191.,Surabaya,Jawa Timur,3.5
+Batik Madura II,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-192.,Bangkalan,Jawa Timur,4.1
+Debus III,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-193.,Serang,Banten,3.9
+Rampak Bedug Baru,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-194.,Pandeglang,Banten,4.5
+Tari Cokek Asli,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-195.,Tangerang,Banten,4.1
+Uli Sera Klasik,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-196.,Lebak,Banten,4.6
+Kue Jojorong Modern,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-197.,Pandeglang,Banten,3.6
+Tari Bedhaya Tradisi,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-198.,Yogyakarta,DI Yogyakarta,3.6
+Wayang Orang Versi A,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-199.,Yogyakarta,DI Yogyakarta,3.8
+Batik Jogja Versi B,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-200.,Yogyakarta,DI Yogyakarta,3.8
+Gudeg I,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-201.,Yogyakarta,DI Yogyakarta,4.5
+Geplak II,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-202.,Bantul,DI Yogyakarta,5
+Tari Kecak III,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-203.,Gianyar,Bali,4
+Tari Barong Baru,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-204.,Gianyar,Bali,3.7
+Ogoh-ogoh Asli,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-205.,Denpasar,Bali,4
+Subak Klasik,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-206.,Tabanan,Bali,4.2
+Canang Sari Modern,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-207.,Ubud,Bali,4.8
+Tari Legong Tradisi,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-208.,Ubud,Bali,3.8
+Bebek Betutu Versi A,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-209.,Gianyar,Bali,4.8
+Loloh Cemcem Versi B,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-210.,Karangasem,Bali,3.7
+Angklung I,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-211.,Bandung,Jawa Barat,3.9
+Wayang Golek II,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-212.,Bandung,Jawa Barat,3.8
+Jaipongan III,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-213.,Karawang,Jawa Barat,4.1
+Tari Topeng Cirebon Baru,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-214.,Cirebon,Jawa Barat,4
+Seren Taun Asli,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-215.,Kuningan,Jawa Barat,4.8
+Sisingaan Klasik,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-216.,Subang,Jawa Barat,3.6
+Comro Modern,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-217.,Bandung,Jawa Barat,3.6
+Batik Ciamis Tradisi,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-218.,Ciamis,Jawa Barat,4.1
+Tari Gambyong Versi A,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-219.,Surakarta,Jawa Tengah,4.9
+Batik Solo Versi B,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-220.,Solo,Jawa Tengah,4.7
+Tari Lengger I,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-221.,Banyumas,Jawa Tengah,4
+Ebeg II,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-222.,Banyumas,Jawa Tengah,4.5
+Wayang Kulit III,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-223.,Surakarta,Jawa Tengah,4.4
+Gunungan Baru,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-224.,Yogyakarta,DI Yogyakarta,4.6
+Lumpia Semarang Asli,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-225.,Semarang,Jawa Tengah,3.9
+Grebeg Sudiro Klasik,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-226.,Solo,Jawa Tengah,3.7
+Reog Ponorogo Modern,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-227.,Ponorogo,Jawa Timur,3.8
+Tari Remo Tradisi,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-228.,Jombang,Jawa Timur,3.7
+Ludruk Versi A,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-229.,Surabaya,Jawa Timur,4.5
+Karapan Sapi Versi B,Tradisi,Balap sapi khas Madura. Varian budaya ke-230.,Sumenep,Jawa Timur,4.8
+Tari Jaranan Buto I,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-231.,Banyuwangi,Jawa Timur,3.8
+Sate Madura II,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-232.,Pamekasan,Jawa Timur,4.2
+Rujak Cingur III,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-233.,Surabaya,Jawa Timur,4.6
+Batik Madura Baru,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-234.,Bangkalan,Jawa Timur,4.6
+Debus Asli,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-235.,Serang,Banten,3.9
+Rampak Bedug Klasik,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-236.,Pandeglang,Banten,4.3
+Tari Cokek Modern,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-237.,Tangerang,Banten,4.7
+Uli Sera Tradisi,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-238.,Lebak,Banten,3.9
+Kue Jojorong Versi A,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-239.,Pandeglang,Banten,3.6
+Tari Bedhaya Versi B,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-240.,Yogyakarta,DI Yogyakarta,4.7
+Wayang Orang I,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-241.,Yogyakarta,DI Yogyakarta,3.7
+Batik Jogja II,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-242.,Yogyakarta,DI Yogyakarta,3.7
+Gudeg III,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-243.,Yogyakarta,DI Yogyakarta,3.7
+Geplak Baru,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-244.,Bantul,DI Yogyakarta,4.9
+Tari Kecak Asli,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-245.,Gianyar,Bali,4.6
+Tari Barong Klasik,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-246.,Gianyar,Bali,3.6
+Ogoh-ogoh Modern,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-247.,Denpasar,Bali,4.5
+Subak Tradisi,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-248.,Tabanan,Bali,4.5
+Canang Sari Versi A,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-249.,Ubud,Bali,4.6
+Tari Legong Versi B,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-250.,Ubud,Bali,4.7
+Bebek Betutu I,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-251.,Gianyar,Bali,4.8
+Loloh Cemcem II,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-252.,Karangasem,Bali,3.7
+Angklung III,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-253.,Bandung,Jawa Barat,4.2
+Wayang Golek Baru,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-254.,Bandung,Jawa Barat,4.4
+Jaipongan Asli,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-255.,Karawang,Jawa Barat,4
+Tari Topeng Cirebon Klasik,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-256.,Cirebon,Jawa Barat,3.8
+Seren Taun Modern,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-257.,Kuningan,Jawa Barat,4.1
+Sisingaan Tradisi,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-258.,Subang,Jawa Barat,4.3
+Comro Versi A,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-259.,Bandung,Jawa Barat,4
+Batik Ciamis Versi B,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-260.,Ciamis,Jawa Barat,3.7
+Tari Gambyong I,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-261.,Surakarta,Jawa Tengah,4.9
+Batik Solo II,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-262.,Solo,Jawa Tengah,4.9
+Tari Lengger III,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-263.,Banyumas,Jawa Tengah,4.1
+Ebeg Baru,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-264.,Banyumas,Jawa Tengah,4.3
+Wayang Kulit Asli,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-265.,Surakarta,Jawa Tengah,4.2
+Gunungan Klasik,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-266.,Yogyakarta,DI Yogyakarta,3.8
+Lumpia Semarang Modern,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-267.,Semarang,Jawa Tengah,4.1
+Grebeg Sudiro Tradisi,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-268.,Solo,Jawa Tengah,4.5
+Reog Ponorogo Versi A,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-269.,Ponorogo,Jawa Timur,3.8
+Tari Remo Versi B,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-270.,Jombang,Jawa Timur,4
+Ludruk I,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-271.,Surabaya,Jawa Timur,4
+Karapan Sapi II,Tradisi,Balap sapi khas Madura. Varian budaya ke-272.,Sumenep,Jawa Timur,3.6
+Tari Jaranan Buto III,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-273.,Banyuwangi,Jawa Timur,4.2
+Sate Madura Baru,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-274.,Pamekasan,Jawa Timur,4.3
+Rujak Cingur Asli,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-275.,Surabaya,Jawa Timur,4.4
+Batik Madura Klasik,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-276.,Bangkalan,Jawa Timur,4.8
+Debus Modern,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-277.,Serang,Banten,3.5
+Rampak Bedug Tradisi,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-278.,Pandeglang,Banten,4.7
+Tari Cokek Versi A,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-279.,Tangerang,Banten,3.9
+Uli Sera Versi B,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-280.,Lebak,Banten,4.8
+Kue Jojorong I,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-281.,Pandeglang,Banten,4.3
+Tari Bedhaya II,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-282.,Yogyakarta,DI Yogyakarta,4
+Wayang Orang III,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-283.,Yogyakarta,DI Yogyakarta,3.6
+Batik Jogja Baru,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-284.,Yogyakarta,DI Yogyakarta,4.3
+Gudeg Asli,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-285.,Yogyakarta,DI Yogyakarta,4.8
+Geplak Klasik,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-286.,Bantul,DI Yogyakarta,3.8
+Tari Kecak Modern,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-287.,Gianyar,Bali,3.7
+Tari Barong Tradisi,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-288.,Gianyar,Bali,3.6
+Ogoh-ogoh Versi A,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-289.,Denpasar,Bali,4.9
+Subak Versi B,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-290.,Tabanan,Bali,4.1
+Canang Sari I,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-291.,Ubud,Bali,4.9
+Tari Legong II,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-292.,Ubud,Bali,3.6
+Bebek Betutu III,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-293.,Gianyar,Bali,4
+Loloh Cemcem Baru,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-294.,Karangasem,Bali,3.9
+Angklung Asli,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-295.,Bandung,Jawa Barat,4.8
+Wayang Golek Klasik,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-296.,Bandung,Jawa Barat,3.5
+Jaipongan Modern,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-297.,Karawang,Jawa Barat,3.6
+Tari Topeng Cirebon Tradisi,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-298.,Cirebon,Jawa Barat,5
+Seren Taun Versi A,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-299.,Kuningan,Jawa Barat,4
+Sisingaan Versi B,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-300.,Subang,Jawa Barat,3.6
+Comro I,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-301.,Bandung,Jawa Barat,4.8
+Batik Ciamis II,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-302.,Ciamis,Jawa Barat,4.9
+Tari Gambyong III,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-303.,Surakarta,Jawa Tengah,4.9
+Batik Solo Baru,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-304.,Solo,Jawa Tengah,3.8
+Tari Lengger Asli,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-305.,Banyumas,Jawa Tengah,3.5
+Ebeg Klasik,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-306.,Banyumas,Jawa Tengah,4.1
+Wayang Kulit Modern,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-307.,Surakarta,Jawa Tengah,4.2
+Gunungan Tradisi,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-308.,Yogyakarta,DI Yogyakarta,4.6
+Lumpia Semarang Versi A,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-309.,Semarang,Jawa Tengah,4.6
+Grebeg Sudiro Versi B,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-310.,Solo,Jawa Tengah,4.6
+Reog Ponorogo I,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-311.,Ponorogo,Jawa Timur,4.5
+Tari Remo II,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-312.,Jombang,Jawa Timur,4.8
+Ludruk III,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-313.,Surabaya,Jawa Timur,3.9
+Karapan Sapi Baru,Tradisi,Balap sapi khas Madura. Varian budaya ke-314.,Sumenep,Jawa Timur,3.8
+Tari Jaranan Buto Asli,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-315.,Banyuwangi,Jawa Timur,4.8
+Sate Madura Klasik,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-316.,Pamekasan,Jawa Timur,4.6
+Rujak Cingur Modern,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-317.,Surabaya,Jawa Timur,4
+Batik Madura Tradisi,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-318.,Bangkalan,Jawa Timur,4.6
+Debus Versi A,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-319.,Serang,Banten,3.8
+Rampak Bedug Versi B,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-320.,Pandeglang,Banten,5
+Tari Cokek I,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-321.,Tangerang,Banten,4.9
+Uli Sera II,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-322.,Lebak,Banten,4.8
+Kue Jojorong III,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-323.,Pandeglang,Banten,3.7
+Tari Bedhaya Baru,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-324.,Yogyakarta,DI Yogyakarta,4.1
+Wayang Orang Asli,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-325.,Yogyakarta,DI Yogyakarta,4.7
+Batik Jogja Klasik,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-326.,Yogyakarta,DI Yogyakarta,4.3
+Gudeg Modern,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-327.,Yogyakarta,DI Yogyakarta,4.2
+Geplak Tradisi,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-328.,Bantul,DI Yogyakarta,3.6
+Tari Kecak Versi A,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-329.,Gianyar,Bali,3.9
+Tari Barong Versi B,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-330.,Gianyar,Bali,4.9
+Ogoh-ogoh I,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-331.,Denpasar,Bali,4.8
+Subak II,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-332.,Tabanan,Bali,4.1
+Canang Sari III,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-333.,Ubud,Bali,3.7
+Tari Legong Baru,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-334.,Ubud,Bali,5
+Bebek Betutu Asli,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-335.,Gianyar,Bali,3.7
+Loloh Cemcem Klasik,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-336.,Karangasem,Bali,3.6
+Angklung Modern,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-337.,Bandung,Jawa Barat,3.5
+Wayang Golek Tradisi,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-338.,Bandung,Jawa Barat,3.7
+Jaipongan Versi A,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-339.,Karawang,Jawa Barat,4.2
+Tari Topeng Cirebon Versi B,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-340.,Cirebon,Jawa Barat,4
+Seren Taun I,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-341.,Kuningan,Jawa Barat,3.7
+Sisingaan II,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-342.,Subang,Jawa Barat,4.6
+Comro III,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-343.,Bandung,Jawa Barat,3.9
+Batik Ciamis Baru,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-344.,Ciamis,Jawa Barat,3.9
+Tari Gambyong Asli,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-345.,Surakarta,Jawa Tengah,4.6
+Batik Solo Klasik,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-346.,Solo,Jawa Tengah,4.9
+Tari Lengger Modern,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-347.,Banyumas,Jawa Tengah,4.8
+Ebeg Tradisi,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-348.,Banyumas,Jawa Tengah,4.7
+Wayang Kulit Versi A,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-349.,Surakarta,Jawa Tengah,4.3
+Gunungan Versi B,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-350.,Yogyakarta,DI Yogyakarta,4.9
+Lumpia Semarang I,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-351.,Semarang,Jawa Tengah,4.8
+Grebeg Sudiro II,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-352.,Solo,Jawa Tengah,4.7
+Reog Ponorogo III,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-353.,Ponorogo,Jawa Timur,4.2
+Tari Remo Baru,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-354.,Jombang,Jawa Timur,4.3
+Ludruk Asli,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-355.,Surabaya,Jawa Timur,4.7
+Karapan Sapi Klasik,Tradisi,Balap sapi khas Madura. Varian budaya ke-356.,Sumenep,Jawa Timur,3.5
+Tari Jaranan Buto Modern,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-357.,Banyuwangi,Jawa Timur,3.7
+Sate Madura Tradisi,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-358.,Pamekasan,Jawa Timur,4.3
+Rujak Cingur Versi A,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-359.,Surabaya,Jawa Timur,4.3
+Batik Madura Versi B,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-360.,Bangkalan,Jawa Timur,3.5
+Debus I,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-361.,Serang,Banten,4.2
+Rampak Bedug II,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-362.,Pandeglang,Banten,4.3
+Tari Cokek III,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-363.,Tangerang,Banten,4.6
+Uli Sera Baru,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-364.,Lebak,Banten,4.8
+Kue Jojorong Asli,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-365.,Pandeglang,Banten,3.5
+Tari Bedhaya Klasik,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-366.,Yogyakarta,DI Yogyakarta,4
+Wayang Orang Modern,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-367.,Yogyakarta,DI Yogyakarta,4.6
+Batik Jogja Tradisi,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-368.,Yogyakarta,DI Yogyakarta,3.6
+Gudeg Versi A,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-369.,Yogyakarta,DI Yogyakarta,3.9
+Geplak Versi B,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-370.,Bantul,DI Yogyakarta,4.7
+Tari Kecak I,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-371.,Gianyar,Bali,3.9
+Tari Barong II,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-372.,Gianyar,Bali,4.1
+Ogoh-ogoh III,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-373.,Denpasar,Bali,3.7
+Subak Baru,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-374.,Tabanan,Bali,4.6
+Canang Sari Asli,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-375.,Ubud,Bali,4.3
+Tari Legong Klasik,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-376.,Ubud,Bali,4.3
+Bebek Betutu Modern,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-377.,Gianyar,Bali,3.8
+Loloh Cemcem Tradisi,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-378.,Karangasem,Bali,4.7
+Angklung Versi A,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-379.,Bandung,Jawa Barat,4.5
+Wayang Golek Versi B,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-380.,Bandung,Jawa Barat,4.3
+Jaipongan I,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-381.,Karawang,Jawa Barat,3.7
+Tari Topeng Cirebon II,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-382.,Cirebon,Jawa Barat,3.8
+Seren Taun III,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-383.,Kuningan,Jawa Barat,4.1
+Sisingaan Baru,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-384.,Subang,Jawa Barat,3.8
+Comro Asli,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-385.,Bandung,Jawa Barat,5
+Batik Ciamis Klasik,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-386.,Ciamis,Jawa Barat,4
+Tari Gambyong Modern,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-387.,Surakarta,Jawa Tengah,4
+Batik Solo Tradisi,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-388.,Solo,Jawa Tengah,4.6
+Tari Lengger Versi A,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-389.,Banyumas,Jawa Tengah,3.6
+Ebeg Versi B,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-390.,Banyumas,Jawa Tengah,4.8
+Wayang Kulit I,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-391.,Surakarta,Jawa Tengah,4.7
+Gunungan II,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-392.,Yogyakarta,DI Yogyakarta,3.7
+Lumpia Semarang III,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-393.,Semarang,Jawa Tengah,3.5
+Grebeg Sudiro Baru,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-394.,Solo,Jawa Tengah,4.2
+Reog Ponorogo Asli,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-395.,Ponorogo,Jawa Timur,3.7
+Tari Remo Klasik,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-396.,Jombang,Jawa Timur,3.8
+Ludruk Modern,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-397.,Surabaya,Jawa Timur,4.5
+Karapan Sapi Tradisi,Tradisi,Balap sapi khas Madura. Varian budaya ke-398.,Sumenep,Jawa Timur,4.6
+Tari Jaranan Buto Versi A,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-399.,Banyuwangi,Jawa Timur,4.1
+Sate Madura Versi B,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-400.,Pamekasan,Jawa Timur,4.1
+Rujak Cingur I,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-401.,Surabaya,Jawa Timur,4.1
+Batik Madura II,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-402.,Bangkalan,Jawa Timur,4.3
+Debus III,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-403.,Serang,Banten,4.8
+Rampak Bedug Baru,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-404.,Pandeglang,Banten,4.3
+Tari Cokek Asli,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-405.,Tangerang,Banten,4.4
+Uli Sera Klasik,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-406.,Lebak,Banten,5
+Kue Jojorong Modern,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-407.,Pandeglang,Banten,3.7
+Tari Bedhaya Tradisi,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-408.,Yogyakarta,DI Yogyakarta,4.3
+Wayang Orang Versi A,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-409.,Yogyakarta,DI Yogyakarta,4.9
+Batik Jogja Versi B,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-410.,Yogyakarta,DI Yogyakarta,3.6
+Gudeg I,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-411.,Yogyakarta,DI Yogyakarta,3.8
+Geplak II,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-412.,Bantul,DI Yogyakarta,5
+Tari Kecak III,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-413.,Gianyar,Bali,4
+Tari Barong Baru,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-414.,Gianyar,Bali,5
+Ogoh-ogoh Asli,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-415.,Denpasar,Bali,4.4
+Subak Klasik,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-416.,Tabanan,Bali,4
+Canang Sari Modern,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-417.,Ubud,Bali,4.7
+Tari Legong Tradisi,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-418.,Ubud,Bali,4.2
+Bebek Betutu Versi A,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-419.,Gianyar,Bali,3.7
+Loloh Cemcem Versi B,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-420.,Karangasem,Bali,4.8
+Angklung I,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-421.,Bandung,Jawa Barat,3.8
+Wayang Golek II,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-422.,Bandung,Jawa Barat,3.7
+Jaipongan III,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-423.,Karawang,Jawa Barat,4.6
+Tari Topeng Cirebon Baru,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-424.,Cirebon,Jawa Barat,3.8
+Seren Taun Asli,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-425.,Kuningan,Jawa Barat,4.7
+Sisingaan Klasik,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-426.,Subang,Jawa Barat,3.9
+Comro Modern,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-427.,Bandung,Jawa Barat,4.2
+Batik Ciamis Tradisi,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-428.,Ciamis,Jawa Barat,4.8
+Tari Gambyong Versi A,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-429.,Surakarta,Jawa Tengah,4.6
+Batik Solo Versi B,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-430.,Solo,Jawa Tengah,4.2
+Tari Lengger I,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-431.,Banyumas,Jawa Tengah,4.7
+Ebeg II,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-432.,Banyumas,Jawa Tengah,4.6
+Wayang Kulit III,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-433.,Surakarta,Jawa Tengah,3.8
+Gunungan Baru,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-434.,Yogyakarta,DI Yogyakarta,4.6
+Lumpia Semarang Asli,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-435.,Semarang,Jawa Tengah,4.2
+Grebeg Sudiro Klasik,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-436.,Solo,Jawa Tengah,4.1
+Reog Ponorogo Modern,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-437.,Ponorogo,Jawa Timur,3.8
+Tari Remo Tradisi,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-438.,Jombang,Jawa Timur,4.8
+Ludruk Versi A,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-439.,Surabaya,Jawa Timur,3.6
+Karapan Sapi Versi B,Tradisi,Balap sapi khas Madura. Varian budaya ke-440.,Sumenep,Jawa Timur,4
+Tari Jaranan Buto I,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-441.,Banyuwangi,Jawa Timur,3.7
+Sate Madura II,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-442.,Pamekasan,Jawa Timur,3.9
+Rujak Cingur III,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-443.,Surabaya,Jawa Timur,4.7
+Batik Madura Baru,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-444.,Bangkalan,Jawa Timur,4.5
+Debus Asli,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-445.,Serang,Banten,4.9
+Rampak Bedug Klasik,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-446.,Pandeglang,Banten,4
+Tari Cokek Modern,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-447.,Tangerang,Banten,4.8
+Uli Sera Tradisi,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-448.,Lebak,Banten,4.6
+Kue Jojorong Versi A,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-449.,Pandeglang,Banten,4.8
+Tari Bedhaya Versi B,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-450.,Yogyakarta,DI Yogyakarta,3.9
+Wayang Orang I,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-451.,Yogyakarta,DI Yogyakarta,4
+Batik Jogja II,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-452.,Yogyakarta,DI Yogyakarta,4.1
+Gudeg III,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-453.,Yogyakarta,DI Yogyakarta,4
+Geplak Baru,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-454.,Bantul,DI Yogyakarta,3.8
+Tari Kecak Asli,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-455.,Gianyar,Bali,3.9
+Tari Barong Klasik,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-456.,Gianyar,Bali,4.8
+Ogoh-ogoh Modern,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-457.,Denpasar,Bali,4.9
+Subak Tradisi,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-458.,Tabanan,Bali,3.9
+Canang Sari Versi A,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-459.,Ubud,Bali,3.7
+Tari Legong Versi B,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-460.,Ubud,Bali,4.3
+Bebek Betutu I,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-461.,Gianyar,Bali,4.1
+Loloh Cemcem II,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-462.,Karangasem,Bali,4.2
+Angklung III,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-463.,Bandung,Jawa Barat,4.1
+Wayang Golek Baru,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-464.,Bandung,Jawa Barat,4.2
+Jaipongan Asli,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-465.,Karawang,Jawa Barat,5
+Tari Topeng Cirebon Klasik,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-466.,Cirebon,Jawa Barat,4.6
+Seren Taun Modern,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-467.,Kuningan,Jawa Barat,4.8
+Sisingaan Tradisi,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-468.,Subang,Jawa Barat,3.6
+Comro Versi A,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-469.,Bandung,Jawa Barat,4.4
+Batik Ciamis Versi B,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-470.,Ciamis,Jawa Barat,3.5
+Tari Gambyong I,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-471.,Surakarta,Jawa Tengah,3.6
+Batik Solo II,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-472.,Solo,Jawa Tengah,4.1
+Tari Lengger III,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-473.,Banyumas,Jawa Tengah,4.1
+Ebeg Baru,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-474.,Banyumas,Jawa Tengah,4.6
+Wayang Kulit Asli,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-475.,Surakarta,Jawa Tengah,4.5
+Gunungan Klasik,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-476.,Yogyakarta,DI Yogyakarta,4.3
+Lumpia Semarang Modern,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-477.,Semarang,Jawa Tengah,3.8
+Grebeg Sudiro Tradisi,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-478.,Solo,Jawa Tengah,3.8
+Reog Ponorogo Versi A,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-479.,Ponorogo,Jawa Timur,4.9
+Tari Remo Versi B,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-480.,Jombang,Jawa Timur,4.9
+Ludruk I,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-481.,Surabaya,Jawa Timur,4.2
+Karapan Sapi II,Tradisi,Balap sapi khas Madura. Varian budaya ke-482.,Sumenep,Jawa Timur,4
+Tari Jaranan Buto III,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-483.,Banyuwangi,Jawa Timur,4
+Sate Madura Baru,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-484.,Pamekasan,Jawa Timur,5
+Rujak Cingur Asli,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-485.,Surabaya,Jawa Timur,4.8
+Batik Madura Klasik,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-486.,Bangkalan,Jawa Timur,4.6
+Debus Modern,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-487.,Serang,Banten,5
+Rampak Bedug Tradisi,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-488.,Pandeglang,Banten,3.8
+Tari Cokek Versi A,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-489.,Tangerang,Banten,4.7
+Uli Sera Versi B,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-490.,Lebak,Banten,4.7
+Kue Jojorong I,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-491.,Pandeglang,Banten,3.8
+Tari Bedhaya II,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-492.,Yogyakarta,DI Yogyakarta,3.9
+Wayang Orang III,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-493.,Yogyakarta,DI Yogyakarta,3.8
+Batik Jogja Baru,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-494.,Yogyakarta,DI Yogyakarta,4.6
+Gudeg Asli,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-495.,Yogyakarta,DI Yogyakarta,3.9
+Geplak Klasik,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-496.,Bantul,DI Yogyakarta,3.6
+Tari Kecak Modern,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-497.,Gianyar,Bali,3.8
+Tari Barong Tradisi,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-498.,Gianyar,Bali,4.1
+Ogoh-ogoh Versi A,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-499.,Denpasar,Bali,3.6
+Subak Versi B,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-500.,Tabanan,Bali,3.7
+Canang Sari I,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-501.,Ubud,Bali,3.9
+Tari Legong II,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-502.,Ubud,Bali,4
+Bebek Betutu III,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-503.,Gianyar,Bali,4.9
+Loloh Cemcem Baru,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-504.,Karangasem,Bali,5
+Angklung Asli,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-505.,Bandung,Jawa Barat,4.7
+Wayang Golek Klasik,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-506.,Bandung,Jawa Barat,4
+Jaipongan Modern,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-507.,Karawang,Jawa Barat,4.3
+Tari Topeng Cirebon Tradisi,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-508.,Cirebon,Jawa Barat,4.9
+Seren Taun Versi A,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-509.,Kuningan,Jawa Barat,4.7
+Sisingaan Versi B,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-510.,Subang,Jawa Barat,4.4
+Comro I,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-511.,Bandung,Jawa Barat,3.8
+Batik Ciamis II,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-512.,Ciamis,Jawa Barat,4.6
+Tari Gambyong III,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-513.,Surakarta,Jawa Tengah,4.5
+Batik Solo Baru,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-514.,Solo,Jawa Tengah,4.3
+Tari Lengger Asli,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-515.,Banyumas,Jawa Tengah,4
+Ebeg Klasik,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-516.,Banyumas,Jawa Tengah,4.3
+Wayang Kulit Modern,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-517.,Surakarta,Jawa Tengah,4.5
+Gunungan Tradisi,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-518.,Yogyakarta,DI Yogyakarta,3.9
+Lumpia Semarang Versi A,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-519.,Semarang,Jawa Tengah,3.6
+Grebeg Sudiro Versi B,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-520.,Solo,Jawa Tengah,3.8
+Reog Ponorogo I,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-521.,Ponorogo,Jawa Timur,5
+Tari Remo II,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-522.,Jombang,Jawa Timur,4.8
+Ludruk III,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-523.,Surabaya,Jawa Timur,4.5
+Karapan Sapi Baru,Tradisi,Balap sapi khas Madura. Varian budaya ke-524.,Sumenep,Jawa Timur,4.7
+Tari Jaranan Buto Asli,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-525.,Banyuwangi,Jawa Timur,3.6
+Sate Madura Klasik,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-526.,Pamekasan,Jawa Timur,3.8
+Rujak Cingur Modern,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-527.,Surabaya,Jawa Timur,4.2
+Batik Madura Tradisi,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-528.,Bangkalan,Jawa Timur,4.9
+Debus Versi A,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-529.,Serang,Banten,3.7
+Rampak Bedug Versi B,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-530.,Pandeglang,Banten,4.5
+Tari Cokek I,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-531.,Tangerang,Banten,3.8
+Uli Sera II,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-532.,Lebak,Banten,4.8
+Kue Jojorong III,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-533.,Pandeglang,Banten,4.8
+Tari Bedhaya Baru,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-534.,Yogyakarta,DI Yogyakarta,4
+Wayang Orang Asli,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-535.,Yogyakarta,DI Yogyakarta,3.6
+Batik Jogja Klasik,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-536.,Yogyakarta,DI Yogyakarta,4.9
+Gudeg Modern,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-537.,Yogyakarta,DI Yogyakarta,3.8
+Geplak Tradisi,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-538.,Bantul,DI Yogyakarta,4.1
+Tari Kecak Versi A,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-539.,Gianyar,Bali,4.8
+Tari Barong Versi B,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-540.,Gianyar,Bali,4.9
+Ogoh-ogoh I,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-541.,Denpasar,Bali,4.2
+Subak II,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-542.,Tabanan,Bali,4.7
+Canang Sari III,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-543.,Ubud,Bali,4.1
+Tari Legong Baru,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-544.,Ubud,Bali,4.6
+Bebek Betutu Asli,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-545.,Gianyar,Bali,4.3
+Loloh Cemcem Klasik,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-546.,Karangasem,Bali,4.6
+Angklung Modern,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-547.,Bandung,Jawa Barat,4.4
+Wayang Golek Tradisi,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-548.,Bandung,Jawa Barat,3.6
+Jaipongan Versi A,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-549.,Karawang,Jawa Barat,3.7
+Tari Topeng Cirebon Versi B,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-550.,Cirebon,Jawa Barat,4
+Seren Taun I,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-551.,Kuningan,Jawa Barat,4.5
+Sisingaan II,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-552.,Subang,Jawa Barat,4.3
+Comro III,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-553.,Bandung,Jawa Barat,4.7
+Batik Ciamis Baru,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-554.,Ciamis,Jawa Barat,4.2
+Tari Gambyong Asli,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-555.,Surakarta,Jawa Tengah,4
+Batik Solo Klasik,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-556.,Solo,Jawa Tengah,4.5
+Tari Lengger Modern,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-557.,Banyumas,Jawa Tengah,3.7
+Ebeg Tradisi,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-558.,Banyumas,Jawa Tengah,4.4
+Wayang Kulit Versi A,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-559.,Surakarta,Jawa Tengah,4.4
+Gunungan Versi B,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-560.,Yogyakarta,DI Yogyakarta,4.8
+Lumpia Semarang I,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-561.,Semarang,Jawa Tengah,3.6
+Grebeg Sudiro II,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-562.,Solo,Jawa Tengah,4.5
+Reog Ponorogo III,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-563.,Ponorogo,Jawa Timur,4.4
+Tari Remo Baru,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-564.,Jombang,Jawa Timur,4.9
+Ludruk Asli,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-565.,Surabaya,Jawa Timur,4
+Karapan Sapi Klasik,Tradisi,Balap sapi khas Madura. Varian budaya ke-566.,Sumenep,Jawa Timur,4.1
+Tari Jaranan Buto Modern,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-567.,Banyuwangi,Jawa Timur,3.6
+Sate Madura Tradisi,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-568.,Pamekasan,Jawa Timur,4.2
+Rujak Cingur Versi A,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-569.,Surabaya,Jawa Timur,4.4
+Batik Madura Versi B,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-570.,Bangkalan,Jawa Timur,4.9
+Debus I,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-571.,Serang,Banten,4.1
+Rampak Bedug II,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-572.,Pandeglang,Banten,3.9
+Tari Cokek III,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-573.,Tangerang,Banten,4
+Uli Sera Baru,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-574.,Lebak,Banten,4.8
+Kue Jojorong Asli,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-575.,Pandeglang,Banten,3.5
+Tari Bedhaya Klasik,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-576.,Yogyakarta,DI Yogyakarta,4.8
+Wayang Orang Modern,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-577.,Yogyakarta,DI Yogyakarta,3.5
+Batik Jogja Tradisi,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-578.,Yogyakarta,DI Yogyakarta,4.2
+Gudeg Versi A,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-579.,Yogyakarta,DI Yogyakarta,3.6
+Geplak Versi B,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-580.,Bantul,DI Yogyakarta,4.5
+Tari Kecak I,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-581.,Gianyar,Bali,3.9
+Tari Barong II,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-582.,Gianyar,Bali,4.4
+Ogoh-ogoh III,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-583.,Denpasar,Bali,4.8
+Subak Baru,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-584.,Tabanan,Bali,3.9
+Canang Sari Asli,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-585.,Ubud,Bali,4
+Tari Legong Klasik,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-586.,Ubud,Bali,3.8
+Bebek Betutu Modern,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-587.,Gianyar,Bali,3.7
+Loloh Cemcem Tradisi,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-588.,Karangasem,Bali,4
+Angklung Versi A,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-589.,Bandung,Jawa Barat,3.9
+Wayang Golek Versi B,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-590.,Bandung,Jawa Barat,4.7
+Jaipongan I,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-591.,Karawang,Jawa Barat,4.9
+Tari Topeng Cirebon II,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-592.,Cirebon,Jawa Barat,3.8
+Seren Taun III,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-593.,Kuningan,Jawa Barat,4.2
+Sisingaan Baru,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-594.,Subang,Jawa Barat,3.9
+Comro Asli,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-595.,Bandung,Jawa Barat,4.9
+Batik Ciamis Klasik,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-596.,Ciamis,Jawa Barat,4.6
+Tari Gambyong Modern,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-597.,Surakarta,Jawa Tengah,3.5
+Batik Solo Tradisi,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-598.,Solo,Jawa Tengah,4.2
+Tari Lengger Versi A,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-599.,Banyumas,Jawa Tengah,4.9
+Ebeg Versi B,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-600.,Banyumas,Jawa Tengah,3.7
+Wayang Kulit I,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-601.,Surakarta,Jawa Tengah,4.7
+Gunungan II,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-602.,Yogyakarta,DI Yogyakarta,3.7
+Lumpia Semarang III,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-603.,Semarang,Jawa Tengah,4.3
+Grebeg Sudiro Baru,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-604.,Solo,Jawa Tengah,4.4
+Reog Ponorogo Asli,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-605.,Ponorogo,Jawa Timur,4.4
+Tari Remo Klasik,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-606.,Jombang,Jawa Timur,4.7
+Ludruk Modern,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-607.,Surabaya,Jawa Timur,4.2
+Karapan Sapi Tradisi,Tradisi,Balap sapi khas Madura. Varian budaya ke-608.,Sumenep,Jawa Timur,3.7
+Tari Jaranan Buto Versi A,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-609.,Banyuwangi,Jawa Timur,3.5
+Sate Madura Versi B,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-610.,Pamekasan,Jawa Timur,4.3
+Rujak Cingur I,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-611.,Surabaya,Jawa Timur,4
+Batik Madura II,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-612.,Bangkalan,Jawa Timur,4.3
+Debus III,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-613.,Serang,Banten,3.9
+Rampak Bedug Baru,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-614.,Pandeglang,Banten,4.5
+Tari Cokek Asli,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-615.,Tangerang,Banten,4.5
+Uli Sera Klasik,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-616.,Lebak,Banten,3.8
+Kue Jojorong Modern,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-617.,Pandeglang,Banten,4.2
+Tari Bedhaya Tradisi,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-618.,Yogyakarta,DI Yogyakarta,3.6
+Wayang Orang Versi A,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-619.,Yogyakarta,DI Yogyakarta,4.2
+Batik Jogja Versi B,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-620.,Yogyakarta,DI Yogyakarta,3.9
+Gudeg I,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-621.,Yogyakarta,DI Yogyakarta,4
+Geplak II,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-622.,Bantul,DI Yogyakarta,3.8
+Tari Kecak III,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-623.,Gianyar,Bali,4.3
+Tari Barong Baru,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-624.,Gianyar,Bali,4.8
+Ogoh-ogoh Asli,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-625.,Denpasar,Bali,4.9
+Subak Klasik,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-626.,Tabanan,Bali,4
+Canang Sari Modern,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-627.,Ubud,Bali,3.6
+Tari Legong Tradisi,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-628.,Ubud,Bali,3.8
+Bebek Betutu Versi A,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-629.,Gianyar,Bali,5
+Loloh Cemcem Versi B,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-630.,Karangasem,Bali,4.3
+Angklung I,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-631.,Bandung,Jawa Barat,5
+Wayang Golek II,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-632.,Bandung,Jawa Barat,4.3
+Jaipongan III,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-633.,Karawang,Jawa Barat,4.4
+Tari Topeng Cirebon Baru,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-634.,Cirebon,Jawa Barat,4.4
+Seren Taun Asli,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-635.,Kuningan,Jawa Barat,3.8
+Sisingaan Klasik,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-636.,Subang,Jawa Barat,3.7
+Comro Modern,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-637.,Bandung,Jawa Barat,4.9
+Batik Ciamis Tradisi,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-638.,Ciamis,Jawa Barat,4.6
+Tari Gambyong Versi A,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-639.,Surakarta,Jawa Tengah,4.4
+Batik Solo Versi B,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-640.,Solo,Jawa Tengah,3.5
+Tari Lengger I,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-641.,Banyumas,Jawa Tengah,4.5
+Ebeg II,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-642.,Banyumas,Jawa Tengah,3.5
+Wayang Kulit III,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-643.,Surakarta,Jawa Tengah,4.1
+Gunungan Baru,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-644.,Yogyakarta,DI Yogyakarta,3.5
+Lumpia Semarang Asli,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-645.,Semarang,Jawa Tengah,4.1
+Grebeg Sudiro Klasik,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-646.,Solo,Jawa Tengah,4.3
+Reog Ponorogo Modern,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-647.,Ponorogo,Jawa Timur,4.1
+Tari Remo Tradisi,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-648.,Jombang,Jawa Timur,4
+Ludruk Versi A,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-649.,Surabaya,Jawa Timur,4.3
+Karapan Sapi Versi B,Tradisi,Balap sapi khas Madura. Varian budaya ke-650.,Sumenep,Jawa Timur,3.8
+Tari Jaranan Buto I,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-651.,Banyuwangi,Jawa Timur,3.7
+Sate Madura II,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-652.,Pamekasan,Jawa Timur,3.7
+Rujak Cingur III,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-653.,Surabaya,Jawa Timur,4.1
+Batik Madura Baru,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-654.,Bangkalan,Jawa Timur,4.7
+Debus Asli,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-655.,Serang,Banten,4.9
+Rampak Bedug Klasik,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-656.,Pandeglang,Banten,4.5
+Tari Cokek Modern,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-657.,Tangerang,Banten,4.7
+Uli Sera Tradisi,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-658.,Lebak,Banten,4.6
+Kue Jojorong Versi A,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-659.,Pandeglang,Banten,4.8
+Tari Bedhaya Versi B,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-660.,Yogyakarta,DI Yogyakarta,3.6
+Wayang Orang I,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-661.,Yogyakarta,DI Yogyakarta,4.2
+Batik Jogja II,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-662.,Yogyakarta,DI Yogyakarta,4.2
+Gudeg III,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-663.,Yogyakarta,DI Yogyakarta,3.5
+Geplak Baru,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-664.,Bantul,DI Yogyakarta,4.4
+Tari Kecak Asli,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-665.,Gianyar,Bali,4.2
+Tari Barong Klasik,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-666.,Gianyar,Bali,4
+Ogoh-ogoh Modern,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-667.,Denpasar,Bali,4
+Subak Tradisi,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-668.,Tabanan,Bali,4.3
+Canang Sari Versi A,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-669.,Ubud,Bali,3.7
+Tari Legong Versi B,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-670.,Ubud,Bali,4.2
+Bebek Betutu I,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-671.,Gianyar,Bali,4
+Loloh Cemcem II,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-672.,Karangasem,Bali,4.9
+Angklung III,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-673.,Bandung,Jawa Barat,3.6
+Wayang Golek Baru,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-674.,Bandung,Jawa Barat,4.4
+Jaipongan Asli,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-675.,Karawang,Jawa Barat,3.7
+Tari Topeng Cirebon Klasik,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-676.,Cirebon,Jawa Barat,3.6
+Seren Taun Modern,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-677.,Kuningan,Jawa Barat,4.2
+Sisingaan Tradisi,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-678.,Subang,Jawa Barat,3.8
+Comro Versi A,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-679.,Bandung,Jawa Barat,5
+Batik Ciamis Versi B,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-680.,Ciamis,Jawa Barat,4.6
+Tari Gambyong I,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-681.,Surakarta,Jawa Tengah,4.3
+Batik Solo II,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-682.,Solo,Jawa Tengah,4.9
+Tari Lengger III,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-683.,Banyumas,Jawa Tengah,3.5
+Ebeg Baru,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-684.,Banyumas,Jawa Tengah,5
+Wayang Kulit Asli,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-685.,Surakarta,Jawa Tengah,4.3
+Gunungan Klasik,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-686.,Yogyakarta,DI Yogyakarta,4.1
+Lumpia Semarang Modern,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-687.,Semarang,Jawa Tengah,3.9
+Grebeg Sudiro Tradisi,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-688.,Solo,Jawa Tengah,4.3
+Reog Ponorogo Versi A,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-689.,Ponorogo,Jawa Timur,3.8
+Tari Remo Versi B,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-690.,Jombang,Jawa Timur,3.7
+Ludruk I,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-691.,Surabaya,Jawa Timur,4
+Karapan Sapi II,Tradisi,Balap sapi khas Madura. Varian budaya ke-692.,Sumenep,Jawa Timur,3.6
+Tari Jaranan Buto III,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-693.,Banyuwangi,Jawa Timur,4.7
+Sate Madura Baru,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-694.,Pamekasan,Jawa Timur,4.3
+Rujak Cingur Asli,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-695.,Surabaya,Jawa Timur,4.6
+Batik Madura Klasik,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-696.,Bangkalan,Jawa Timur,3.6
+Debus Modern,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-697.,Serang,Banten,4.6
+Rampak Bedug Tradisi,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-698.,Pandeglang,Banten,4
+Tari Cokek Versi A,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-699.,Tangerang,Banten,4.4
+Uli Sera Versi B,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-700.,Lebak,Banten,3.5
+Kue Jojorong I,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-701.,Pandeglang,Banten,4.9
+Tari Bedhaya II,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-702.,Yogyakarta,DI Yogyakarta,4
+Wayang Orang III,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-703.,Yogyakarta,DI Yogyakarta,4.9
+Batik Jogja Baru,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-704.,Yogyakarta,DI Yogyakarta,4
+Gudeg Asli,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-705.,Yogyakarta,DI Yogyakarta,3.9
+Geplak Klasik,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-706.,Bantul,DI Yogyakarta,4.7
+Tari Kecak Modern,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-707.,Gianyar,Bali,4
+Tari Barong Tradisi,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-708.,Gianyar,Bali,4.7
+Ogoh-ogoh Versi A,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-709.,Denpasar,Bali,4.9
+Subak Versi B,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-710.,Tabanan,Bali,3.9
+Canang Sari I,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-711.,Ubud,Bali,4.9
+Tari Legong II,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-712.,Ubud,Bali,4.7
+Bebek Betutu III,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-713.,Gianyar,Bali,3.8
+Loloh Cemcem Baru,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-714.,Karangasem,Bali,3.9
+Angklung Asli,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-715.,Bandung,Jawa Barat,4.9
+Wayang Golek Klasik,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-716.,Bandung,Jawa Barat,4.1
+Jaipongan Modern,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-717.,Karawang,Jawa Barat,4
+Tari Topeng Cirebon Tradisi,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-718.,Cirebon,Jawa Barat,3.9
+Seren Taun Versi A,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-719.,Kuningan,Jawa Barat,3.9
+Sisingaan Versi B,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-720.,Subang,Jawa Barat,4.4
+Comro I,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-721.,Bandung,Jawa Barat,3.7
+Batik Ciamis II,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-722.,Ciamis,Jawa Barat,5
+Tari Gambyong III,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-723.,Surakarta,Jawa Tengah,3.9
+Batik Solo Baru,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-724.,Solo,Jawa Tengah,4
+Tari Lengger Asli,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-725.,Banyumas,Jawa Tengah,4
+Ebeg Klasik,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-726.,Banyumas,Jawa Tengah,4.2
+Wayang Kulit Modern,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-727.,Surakarta,Jawa Tengah,4.4
+Gunungan Tradisi,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-728.,Yogyakarta,DI Yogyakarta,4.7
+Lumpia Semarang Versi A,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-729.,Semarang,Jawa Tengah,4.8
+Grebeg Sudiro Versi B,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-730.,Solo,Jawa Tengah,4.3
+Reog Ponorogo I,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-731.,Ponorogo,Jawa Timur,4.1
+Tari Remo II,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-732.,Jombang,Jawa Timur,4.8
+Ludruk III,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-733.,Surabaya,Jawa Timur,4.5
+Karapan Sapi Baru,Tradisi,Balap sapi khas Madura. Varian budaya ke-734.,Sumenep,Jawa Timur,4
+Tari Jaranan Buto Asli,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-735.,Banyuwangi,Jawa Timur,3.9
+Sate Madura Klasik,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-736.,Pamekasan,Jawa Timur,4.5
+Rujak Cingur Modern,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-737.,Surabaya,Jawa Timur,4.3
+Batik Madura Tradisi,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-738.,Bangkalan,Jawa Timur,4
+Debus Versi A,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-739.,Serang,Banten,4.2
+Rampak Bedug Versi B,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-740.,Pandeglang,Banten,3.6
+Tari Cokek I,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-741.,Tangerang,Banten,4.5
+Uli Sera II,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-742.,Lebak,Banten,4.4
+Kue Jojorong III,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-743.,Pandeglang,Banten,4.9
+Tari Bedhaya Baru,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-744.,Yogyakarta,DI Yogyakarta,4.5
+Wayang Orang Asli,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-745.,Yogyakarta,DI Yogyakarta,3.7
+Batik Jogja Klasik,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-746.,Yogyakarta,DI Yogyakarta,4.1
+Gudeg Modern,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-747.,Yogyakarta,DI Yogyakarta,4.5
+Geplak Tradisi,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-748.,Bantul,DI Yogyakarta,4.2
+Tari Kecak Versi A,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-749.,Gianyar,Bali,4.6
+Tari Barong Versi B,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-750.,Gianyar,Bali,3.5
+Ogoh-ogoh I,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-751.,Denpasar,Bali,4.3
+Subak II,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-752.,Tabanan,Bali,3.5
+Canang Sari III,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-753.,Ubud,Bali,4.8
+Tari Legong Baru,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-754.,Ubud,Bali,3.6
+Bebek Betutu Asli,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-755.,Gianyar,Bali,4.9
+Loloh Cemcem Klasik,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-756.,Karangasem,Bali,4.1
+Angklung Modern,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-757.,Bandung,Jawa Barat,4.2
+Wayang Golek Tradisi,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-758.,Bandung,Jawa Barat,4.2
+Jaipongan Versi A,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-759.,Karawang,Jawa Barat,4
+Tari Topeng Cirebon Versi B,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-760.,Cirebon,Jawa Barat,4.5
+Seren Taun I,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-761.,Kuningan,Jawa Barat,4.5
+Sisingaan II,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-762.,Subang,Jawa Barat,3.8
+Comro III,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-763.,Bandung,Jawa Barat,4.6
+Batik Ciamis Baru,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-764.,Ciamis,Jawa Barat,3.7
+Tari Gambyong Asli,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-765.,Surakarta,Jawa Tengah,4.2
+Batik Solo Klasik,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-766.,Solo,Jawa Tengah,4.5
+Tari Lengger Modern,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-767.,Banyumas,Jawa Tengah,4.7
+Ebeg Tradisi,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-768.,Banyumas,Jawa Tengah,4.1
+Wayang Kulit Versi A,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-769.,Surakarta,Jawa Tengah,4.5
+Gunungan Versi B,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-770.,Yogyakarta,DI Yogyakarta,3.9
+Lumpia Semarang I,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-771.,Semarang,Jawa Tengah,4.3
+Grebeg Sudiro II,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-772.,Solo,Jawa Tengah,4.8
+Reog Ponorogo III,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-773.,Ponorogo,Jawa Timur,4.7
+Tari Remo Baru,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-774.,Jombang,Jawa Timur,4
+Ludruk Asli,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-775.,Surabaya,Jawa Timur,4
+Karapan Sapi Klasik,Tradisi,Balap sapi khas Madura. Varian budaya ke-776.,Sumenep,Jawa Timur,4.1
+Tari Jaranan Buto Modern,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-777.,Banyuwangi,Jawa Timur,4.1
+Sate Madura Tradisi,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-778.,Pamekasan,Jawa Timur,4.5
+Rujak Cingur Versi A,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-779.,Surabaya,Jawa Timur,4.2
+Batik Madura Versi B,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-780.,Bangkalan,Jawa Timur,3.7
+Debus I,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-781.,Serang,Banten,3.9
+Rampak Bedug II,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-782.,Pandeglang,Banten,4.9
+Tari Cokek III,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-783.,Tangerang,Banten,4.6
+Uli Sera Baru,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-784.,Lebak,Banten,4.4
+Kue Jojorong Asli,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-785.,Pandeglang,Banten,4
+Tari Bedhaya Klasik,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-786.,Yogyakarta,DI Yogyakarta,4.7
+Wayang Orang Modern,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-787.,Yogyakarta,DI Yogyakarta,4.3
+Batik Jogja Tradisi,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-788.,Yogyakarta,DI Yogyakarta,4.1
+Gudeg Versi A,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-789.,Yogyakarta,DI Yogyakarta,3.7
+Geplak Versi B,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-790.,Bantul,DI Yogyakarta,4.8
+Tari Kecak I,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-791.,Gianyar,Bali,4.4
+Tari Barong II,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-792.,Gianyar,Bali,4.7
+Ogoh-ogoh III,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-793.,Denpasar,Bali,4.4
+Subak Baru,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-794.,Tabanan,Bali,4
+Canang Sari Asli,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-795.,Ubud,Bali,4.8
+Tari Legong Klasik,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-796.,Ubud,Bali,3.7
+Bebek Betutu Modern,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-797.,Gianyar,Bali,4.8
+Loloh Cemcem Tradisi,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-798.,Karangasem,Bali,5
+Angklung Versi A,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-799.,Bandung,Jawa Barat,4.6
+Wayang Golek Versi B,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-800.,Bandung,Jawa Barat,3.9
+Jaipongan I,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-801.,Karawang,Jawa Barat,4.7
+Tari Topeng Cirebon II,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-802.,Cirebon,Jawa Barat,3.5
+Seren Taun III,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-803.,Kuningan,Jawa Barat,3.6
+Sisingaan Baru,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-804.,Subang,Jawa Barat,4.6
+Comro Asli,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-805.,Bandung,Jawa Barat,4.7
+Batik Ciamis Klasik,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-806.,Ciamis,Jawa Barat,3.8
+Tari Gambyong Modern,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-807.,Surakarta,Jawa Tengah,4.9
+Batik Solo Tradisi,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-808.,Solo,Jawa Tengah,3.8
+Tari Lengger Versi A,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-809.,Banyumas,Jawa Tengah,4.8
+Ebeg Versi B,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-810.,Banyumas,Jawa Tengah,4.5
+Wayang Kulit I,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-811.,Surakarta,Jawa Tengah,4.3
+Gunungan II,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-812.,Yogyakarta,DI Yogyakarta,4.6
+Lumpia Semarang III,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-813.,Semarang,Jawa Tengah,4.6
+Grebeg Sudiro Baru,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-814.,Solo,Jawa Tengah,4.1
+Reog Ponorogo Asli,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-815.,Ponorogo,Jawa Timur,4.7
+Tari Remo Klasik,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-816.,Jombang,Jawa Timur,4.1
+Ludruk Modern,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-817.,Surabaya,Jawa Timur,4.8
+Karapan Sapi Tradisi,Tradisi,Balap sapi khas Madura. Varian budaya ke-818.,Sumenep,Jawa Timur,3.7
+Tari Jaranan Buto Versi A,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-819.,Banyuwangi,Jawa Timur,3.8
+Sate Madura Versi B,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-820.,Pamekasan,Jawa Timur,4.2
+Rujak Cingur I,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-821.,Surabaya,Jawa Timur,4.6
+Batik Madura II,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-822.,Bangkalan,Jawa Timur,4.8
+Debus III,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-823.,Serang,Banten,4.2
+Rampak Bedug Baru,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-824.,Pandeglang,Banten,4.2
+Tari Cokek Asli,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-825.,Tangerang,Banten,4.8
+Uli Sera Klasik,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-826.,Lebak,Banten,3.8
+Kue Jojorong Modern,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-827.,Pandeglang,Banten,3.8
+Tari Bedhaya Tradisi,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-828.,Yogyakarta,DI Yogyakarta,4.7
+Wayang Orang Versi A,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-829.,Yogyakarta,DI Yogyakarta,4.9
+Batik Jogja Versi B,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-830.,Yogyakarta,DI Yogyakarta,4.1
+Gudeg I,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-831.,Yogyakarta,DI Yogyakarta,5
+Geplak II,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-832.,Bantul,DI Yogyakarta,3.9
+Tari Kecak III,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-833.,Gianyar,Bali,4.1
+Tari Barong Baru,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-834.,Gianyar,Bali,4.9
+Ogoh-ogoh Asli,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-835.,Denpasar,Bali,4.1
+Subak Klasik,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-836.,Tabanan,Bali,3.8
+Canang Sari Modern,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-837.,Ubud,Bali,4.9
+Tari Legong Tradisi,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-838.,Ubud,Bali,4.6
+Bebek Betutu Versi A,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-839.,Gianyar,Bali,4.2
+Loloh Cemcem Versi B,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-840.,Karangasem,Bali,4.9
+Angklung I,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-841.,Bandung,Jawa Barat,4
+Wayang Golek II,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-842.,Bandung,Jawa Barat,4.4
+Jaipongan III,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-843.,Karawang,Jawa Barat,4.5
+Tari Topeng Cirebon Baru,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-844.,Cirebon,Jawa Barat,3.8
+Seren Taun Asli,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-845.,Kuningan,Jawa Barat,3.9
+Sisingaan Klasik,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-846.,Subang,Jawa Barat,4.6
+Comro Modern,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-847.,Bandung,Jawa Barat,4
+Batik Ciamis Tradisi,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-848.,Ciamis,Jawa Barat,4.5
+Tari Gambyong Versi A,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-849.,Surakarta,Jawa Tengah,4.6
+Batik Solo Versi B,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-850.,Solo,Jawa Tengah,4.9
+Tari Lengger I,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-851.,Banyumas,Jawa Tengah,4.3
+Ebeg II,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-852.,Banyumas,Jawa Tengah,3.9
+Wayang Kulit III,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-853.,Surakarta,Jawa Tengah,4.2
+Gunungan Baru,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-854.,Yogyakarta,DI Yogyakarta,4.7
+Lumpia Semarang Asli,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-855.,Semarang,Jawa Tengah,4.9
+Grebeg Sudiro Klasik,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-856.,Solo,Jawa Tengah,3.5
+Reog Ponorogo Modern,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-857.,Ponorogo,Jawa Timur,4.3
+Tari Remo Tradisi,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-858.,Jombang,Jawa Timur,4.5
+Ludruk Versi A,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-859.,Surabaya,Jawa Timur,3.8
+Karapan Sapi Versi B,Tradisi,Balap sapi khas Madura. Varian budaya ke-860.,Sumenep,Jawa Timur,4.3
+Tari Jaranan Buto I,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-861.,Banyuwangi,Jawa Timur,3.9
+Sate Madura II,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-862.,Pamekasan,Jawa Timur,4.8
+Rujak Cingur III,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-863.,Surabaya,Jawa Timur,4.1
+Batik Madura Baru,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-864.,Bangkalan,Jawa Timur,4.2
+Debus Asli,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-865.,Serang,Banten,5
+Rampak Bedug Klasik,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-866.,Pandeglang,Banten,3.5
+Tari Cokek Modern,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-867.,Tangerang,Banten,3.9
+Uli Sera Tradisi,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-868.,Lebak,Banten,4.6
+Kue Jojorong Versi A,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-869.,Pandeglang,Banten,5
+Tari Bedhaya Versi B,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-870.,Yogyakarta,DI Yogyakarta,4.5
+Wayang Orang I,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-871.,Yogyakarta,DI Yogyakarta,4.7
+Batik Jogja II,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-872.,Yogyakarta,DI Yogyakarta,3.9
+Gudeg III,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-873.,Yogyakarta,DI Yogyakarta,4.2
+Geplak Baru,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-874.,Bantul,DI Yogyakarta,3.7
+Tari Kecak Asli,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-875.,Gianyar,Bali,4.6
+Tari Barong Klasik,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-876.,Gianyar,Bali,3.5
+Ogoh-ogoh Modern,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-877.,Denpasar,Bali,4.4
+Subak Tradisi,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-878.,Tabanan,Bali,4.7
+Canang Sari Versi A,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-879.,Ubud,Bali,4.4
+Tari Legong Versi B,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-880.,Ubud,Bali,3.9
+Bebek Betutu I,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-881.,Gianyar,Bali,3.5
+Loloh Cemcem II,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-882.,Karangasem,Bali,4.6
+Angklung III,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-883.,Bandung,Jawa Barat,3.5
+Wayang Golek Baru,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-884.,Bandung,Jawa Barat,3.7
+Jaipongan Asli,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-885.,Karawang,Jawa Barat,4.8
+Tari Topeng Cirebon Klasik,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-886.,Cirebon,Jawa Barat,3.7
+Seren Taun Modern,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-887.,Kuningan,Jawa Barat,3.7
+Sisingaan Tradisi,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-888.,Subang,Jawa Barat,4.7
+Comro Versi A,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-889.,Bandung,Jawa Barat,4.2
+Batik Ciamis Versi B,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-890.,Ciamis,Jawa Barat,4.1
+Tari Gambyong I,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-891.,Surakarta,Jawa Tengah,3.6
+Batik Solo II,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-892.,Solo,Jawa Tengah,4.7
+Tari Lengger III,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-893.,Banyumas,Jawa Tengah,3.7
+Ebeg Baru,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-894.,Banyumas,Jawa Tengah,3.6
+Wayang Kulit Asli,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-895.,Surakarta,Jawa Tengah,3.9
+Gunungan Klasik,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-896.,Yogyakarta,DI Yogyakarta,3.6
+Lumpia Semarang Modern,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-897.,Semarang,Jawa Tengah,4.4
+Grebeg Sudiro Tradisi,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-898.,Solo,Jawa Tengah,4.4
+Reog Ponorogo Versi A,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-899.,Ponorogo,Jawa Timur,4.2
+Tari Remo Versi B,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-900.,Jombang,Jawa Timur,4.1
+Ludruk I,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-901.,Surabaya,Jawa Timur,4.3
+Karapan Sapi II,Tradisi,Balap sapi khas Madura. Varian budaya ke-902.,Sumenep,Jawa Timur,4.8
+Tari Jaranan Buto III,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-903.,Banyuwangi,Jawa Timur,4.9
+Sate Madura Baru,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-904.,Pamekasan,Jawa Timur,4.6
+Rujak Cingur Asli,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-905.,Surabaya,Jawa Timur,5
+Batik Madura Klasik,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-906.,Bangkalan,Jawa Timur,5
+Debus Modern,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-907.,Serang,Banten,3.6
+Rampak Bedug Tradisi,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-908.,Pandeglang,Banten,4.4
+Tari Cokek Versi A,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-909.,Tangerang,Banten,3.8
+Uli Sera Versi B,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-910.,Lebak,Banten,4.3
+Kue Jojorong I,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-911.,Pandeglang,Banten,4.7
+Tari Bedhaya II,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-912.,Yogyakarta,DI Yogyakarta,4.8
+Wayang Orang III,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-913.,Yogyakarta,DI Yogyakarta,4.1
+Batik Jogja Baru,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-914.,Yogyakarta,DI Yogyakarta,3.6
+Gudeg Asli,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-915.,Yogyakarta,DI Yogyakarta,4.9
+Geplak Klasik,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-916.,Bantul,DI Yogyakarta,4.6
+Tari Kecak Modern,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-917.,Gianyar,Bali,4
+Tari Barong Tradisi,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-918.,Gianyar,Bali,3.9
+Ogoh-ogoh Versi A,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-919.,Denpasar,Bali,4.5
+Subak Versi B,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-920.,Tabanan,Bali,4.9
+Canang Sari I,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-921.,Ubud,Bali,3.8
+Tari Legong II,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-922.,Ubud,Bali,4.6
+Bebek Betutu III,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-923.,Gianyar,Bali,4.8
+Loloh Cemcem Baru,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-924.,Karangasem,Bali,4.8
+Angklung Asli,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-925.,Bandung,Jawa Barat,4.1
+Wayang Golek Klasik,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-926.,Bandung,Jawa Barat,4.9
+Jaipongan Modern,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-927.,Karawang,Jawa Barat,4
+Tari Topeng Cirebon Tradisi,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-928.,Cirebon,Jawa Barat,4.8
+Seren Taun Versi A,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-929.,Kuningan,Jawa Barat,4
+Sisingaan Versi B,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-930.,Subang,Jawa Barat,4.7
+Comro I,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-931.,Bandung,Jawa Barat,4.7
+Batik Ciamis II,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-932.,Ciamis,Jawa Barat,3.8
+Tari Gambyong III,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-933.,Surakarta,Jawa Tengah,4.7
+Batik Solo Baru,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-934.,Solo,Jawa Tengah,3.5
+Tari Lengger Asli,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-935.,Banyumas,Jawa Tengah,3.6
+Ebeg Klasik,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-936.,Banyumas,Jawa Tengah,3.8
+Wayang Kulit Modern,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-937.,Surakarta,Jawa Tengah,4.5
+Gunungan Tradisi,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-938.,Yogyakarta,DI Yogyakarta,4
+Lumpia Semarang Versi A,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-939.,Semarang,Jawa Tengah,3.7
+Grebeg Sudiro Versi B,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-940.,Solo,Jawa Tengah,4.6
+Reog Ponorogo I,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-941.,Ponorogo,Jawa Timur,4.4
+Tari Remo II,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-942.,Jombang,Jawa Timur,4.4
+Ludruk III,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-943.,Surabaya,Jawa Timur,4.9
+Karapan Sapi Baru,Tradisi,Balap sapi khas Madura. Varian budaya ke-944.,Sumenep,Jawa Timur,4
+Tari Jaranan Buto Asli,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-945.,Banyuwangi,Jawa Timur,4.4
+Sate Madura Klasik,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-946.,Pamekasan,Jawa Timur,3.5
+Rujak Cingur Modern,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-947.,Surabaya,Jawa Timur,3.5
+Batik Madura Tradisi,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-948.,Bangkalan,Jawa Timur,4.9
+Debus Versi A,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-949.,Serang,Banten,3.9
+Rampak Bedug Versi B,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-950.,Pandeglang,Banten,4.3
+Tari Cokek I,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-951.,Tangerang,Banten,4.1
+Uli Sera II,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-952.,Lebak,Banten,5
+Kue Jojorong III,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-953.,Pandeglang,Banten,4.9
+Tari Bedhaya Baru,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-954.,Yogyakarta,DI Yogyakarta,4.4
+Wayang Orang Asli,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-955.,Yogyakarta,DI Yogyakarta,4.5
+Batik Jogja Klasik,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-956.,Yogyakarta,DI Yogyakarta,4.3
+Gudeg Modern,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-957.,Yogyakarta,DI Yogyakarta,3.7
+Geplak Tradisi,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-958.,Bantul,DI Yogyakarta,4.5
+Tari Kecak Versi A,Tari,Tari dengan suara vokal 'cak' tanpa alat musik. Varian budaya ke-959.,Gianyar,Bali,4.1
+Tari Barong Versi B,Tari,Tari pertarungan kebaikan dan kejahatan. Varian budaya ke-960.,Gianyar,Bali,4.7
+Ogoh-ogoh I,Tradisi,Patung raksasa diarak menjelang Nyepi. Varian budaya ke-961.,Denpasar,Bali,3.9
+Subak II,Tradisi,Sistem irigasi tradisional Bali berbasis spiritual. Varian budaya ke-962.,Tabanan,Bali,4.2
+Canang Sari III,Tradisi,Persembahan harian masyarakat Hindu Bali. Varian budaya ke-963.,Ubud,Bali,4.6
+Tari Legong Baru,Tari,Tari klasik dengan gerakan halus dan rumit. Varian budaya ke-964.,Ubud,Bali,4.5
+Bebek Betutu Asli,Kuliner,Bebek berbumbu khas yang dimasak lama. Varian budaya ke-965.,Gianyar,Bali,4.2
+Loloh Cemcem Klasik,Kuliner,Minuman herbal dari daun cemcem. Varian budaya ke-966.,Karangasem,Bali,3.7
+Angklung Modern,Musik,Alat musik bambu khas Sunda yang digetarkan. Varian budaya ke-967.,Bandung,Jawa Barat,3.9
+Wayang Golek Tradisi,Kesenian,Wayang boneka kayu khas Sunda. Varian budaya ke-968.,Bandung,Jawa Barat,4.3
+Jaipongan Versi A,Tari,Tari energik dengan irama kendang dan gerakan dinamis. Varian budaya ke-969.,Karawang,Jawa Barat,4
+Tari Topeng Cirebon Versi B,Tari,Tarian topeng dengan karakter khas daerah Cirebon. Varian budaya ke-970.,Cirebon,Jawa Barat,3.9
+Seren Taun I,Tradisi,Upacara syukur panen masyarakat Sunda. Varian budaya ke-971.,Kuningan,Jawa Barat,4.7
+Sisingaan II,Tradisi,Pertunjukan arak-arakan anak menaiki singa mainan. Varian budaya ke-972.,Subang,Jawa Barat,4.4
+Comro III,Kuliner,Gorengan berbahan singkong isi oncom. Varian budaya ke-973.,Bandung,Jawa Barat,4.7
+Batik Ciamis Baru,Kerajinan,Batik khas Ciamis dengan motif flora fauna. Varian budaya ke-974.,Ciamis,Jawa Barat,4.5
+Tari Gambyong Asli,Tari,Tari klasik Jawa dengan gerakan lembut. Varian budaya ke-975.,Surakarta,Jawa Tengah,3.7
+Batik Solo Klasik,Kerajinan,Batik dengan motif keraton yang klasik. Varian budaya ke-976.,Solo,Jawa Tengah,3.9
+Tari Lengger Modern,Tari,Tari Banyumasan dengan iringan gamelan. Varian budaya ke-977.,Banyumas,Jawa Tengah,4.3
+Ebeg Tradisi,Kesenian,Kuda lumping khas Banyumas. Varian budaya ke-978.,Banyumas,Jawa Tengah,4.5
+Wayang Kulit Versi A,Kesenian,Pertunjukan bayangan dari boneka kulit. Varian budaya ke-979.,Surakarta,Jawa Tengah,4.9
+Gunungan Versi B,Tradisi,Simbol hasil bumi yang diarak saat Grebeg. Varian budaya ke-980.,Yogyakarta,DI Yogyakarta,4.7
+Lumpia Semarang I,Kuliner,Lumpia isi rebung khas Semarang. Varian budaya ke-981.,Semarang,Jawa Tengah,4.6
+Grebeg Sudiro II,Tradisi,Perayaan Imlek dan Jawa bersatu. Varian budaya ke-982.,Solo,Jawa Tengah,3.6
+Reog Ponorogo III,Kesenian,Pertunjukan dengan topeng barong besar. Varian budaya ke-983.,Ponorogo,Jawa Timur,4.9
+Tari Remo Baru,Tari,Tari penyambutan tamu kehormatan. Varian budaya ke-984.,Jombang,Jawa Timur,4.7
+Ludruk Asli,Kesenian,Teater tradisional berbahasa Jawa Timuran. Varian budaya ke-985.,Surabaya,Jawa Timur,4.3
+Karapan Sapi Klasik,Tradisi,Balap sapi khas Madura. Varian budaya ke-986.,Sumenep,Jawa Timur,3.6
+Tari Jaranan Buto Modern,Tari,Tarian dengan topeng raksasa khas Banyuwangi. Varian budaya ke-987.,Banyuwangi,Jawa Timur,4.3
+Sate Madura Tradisi,Kuliner,Sate ayam/kambing dengan bumbu kacang. Varian budaya ke-988.,Pamekasan,Jawa Timur,3.9
+Rujak Cingur Versi A,Kuliner,Salad tradisional dengan irisan cingur. Varian budaya ke-989.,Surabaya,Jawa Timur,4.1
+Batik Madura Versi B,Kerajinan,Batik berwarna cerah dengan motif khas. Varian budaya ke-990.,Bangkalan,Jawa Timur,5
+Debus I,Tradisi,Pertunjukan kekebalan tubuh ekstrem. Varian budaya ke-991.,Serang,Banten,4.1
+Rampak Bedug II,Musik,Pertunjukan sinkronisasi bedug besar. Varian budaya ke-992.,Pandeglang,Banten,4.9
+Tari Cokek III,Tari,Tari pergaulan khas etnis Tionghoa-Banten. Varian budaya ke-993.,Tangerang,Banten,4.8
+Uli Sera Baru,Kuliner,Makanan khas Baduy dari ketan dan kelapa. Varian budaya ke-994.,Lebak,Banten,4.9
+Kue Jojorong Asli,Kuliner,Kue basah manis dari tepung beras dan gula merah. Varian budaya ke-995.,Pandeglang,Banten,4.2
+Tari Bedhaya Klasik,Tari,Tari sakral keraton dengan gerakan lambat. Varian budaya ke-996.,Yogyakarta,DI Yogyakarta,3.5
+Wayang Orang Modern,Kesenian,Pertunjukan wayang yang diperankan oleh manusia. Varian budaya ke-997.,Yogyakarta,DI Yogyakarta,3.8
+Batik Jogja Tradisi,Kerajinan,Batik khas dengan warna hitam putih dan motif keraton. Varian budaya ke-998.,Yogyakarta,DI Yogyakarta,4.3
+Gudeg Versi A,Kuliner,Makanan manis dari nangka muda. Varian budaya ke-999.,Yogyakarta,DI Yogyakarta,4.4
+Geplak Versi B,Kuliner,Permen kelapa warna-warni khas Jogja. Varian budaya ke-1000.,Bantul,DI Yogyakarta,4.1
